@@ -1,0 +1,2023 @@
+{
+    "activities": [
+        {
+            "name": "Command Prompt - python  autotimer.py",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:39:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 09:39:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 09:40:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:35:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-18 10:35:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:35:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 10:35:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-05-18 10:36:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:37:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-05-18 10:36:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:38:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 10:38:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:51:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-05-18 10:51:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:54:19",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 23,
+                    "start_time": "2022-05-18 10:51:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:54:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 10:54:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:59:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-18 10:59:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 11:00:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-18 11:00:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:01:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:01:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-05-18 11:02:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:03:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-05-18 11:02:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 11:04:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-18 11:04:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:05:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2022-05-18 11:05:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:05:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 11:05:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-18 11:10:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 20:11:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2022-05-18 20:12:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 20:13:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 20:13:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-05-18 20:13:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 20:14:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:18:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 20:18:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-18 20:19:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 20:19:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:09",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 16,
+                    "start_time": "2022-05-18 20:19:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:22:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 20:22:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:48:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 17:48:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-05-21 17:50:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-21 17:50:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:02:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:02:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-05-21 18:03:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-21 18:03:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-21 18:03:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-21 18:03:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 18:04:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-21 18:04:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:04:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-21 18:04:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-05-21 18:05:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:05:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:06:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:06:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:07:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 18:07:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:10:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-05-21 18:10:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:18:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2022-05-21 18:17:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-29 19:09:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:10:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-29 19:10:02"
+                }
+            ]
+        },
+        {
+            "name": "mail.google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 09:39:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 09:40:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:14:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:19:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-21 18:04:39"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 09:40:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 09:40:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:39:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-05-18 10:39:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 10:40:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-05-18 10:40:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:41:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-05-18 10:40:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:51:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 10:51:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:54:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 10:54:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:00:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:00:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:01:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 11:02:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:02:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:03:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:03:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 11:04:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:04:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:05:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-18 11:04:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:05:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:05:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:10:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 20:12:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:12:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-05-18 20:12:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:13:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 20:13:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-18 20:14:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:14:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:14:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:19:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-18 20:19:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-05-18 20:19:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2022-05-21 17:49:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 17:49:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 17:49:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 17:50:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 17:50:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 17:50:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:51:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-05-21 17:51:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-21 18:02:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:03:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:03:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:04:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-21 18:04:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-21 18:04:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:04:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 18:05:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:06:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2022-05-21 18:06:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:10:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-21 18:10:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:18:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 18:18:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-29 19:09:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:10:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-29 19:09:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:10:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-29 19:10:11"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 09:40:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 09:40:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:35:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 10:35:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 10:36:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:36:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:51:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:51:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:54:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:54:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 11:00:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:01:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:01:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:02:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:04:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-18 11:04:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:05:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 11:05:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 11:10:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:12:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:19:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 20:18:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-05-21 17:49:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 18:03:32"
+                }
+            ]
+        },
+        {
+            "name": "Snap Assist",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 09:40:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:36:40"
+                }
+            ]
+        },
+        {
+            "name": "google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 09:40:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 09:40:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-18 10:39:48"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 09:40:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 09:40:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:00:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:04:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 20:12:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:21:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 17:49:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:05:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-29 19:09:29"
+                }
+            ]
+        },
+        {
+            "name": "autotimer.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:35:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-05-18 10:35:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:37:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-05-18 10:37:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:38:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-18 10:37:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:38:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 43,
+                    "start_time": "2022-05-18 10:38:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:39:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2022-05-18 10:39:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-05-18 10:40:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 10:40:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:41:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 47,
+                    "start_time": "2022-05-18 10:41:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:51:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:51:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:59:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 10:59:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:00:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:00:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:01:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:01:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:03:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2022-05-18 11:03:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:03:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:03:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:04:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:06:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-05-18 11:05:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:12:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-05-21 18:05:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:05:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:07:47",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 18,
+                    "start_time": "2022-05-21 18:06:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:10:11",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 20,
+                    "start_time": "2022-05-21 18:07:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:10:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-21 18:10:22"
+                }
+            ]
+        },
+        {
+            "name": "Select Command Prompt - python  autotimer.py",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:36:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:54:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:54:19"
+                }
+            ]
+        },
+        {
+            "name": "prepinsta.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:36:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 10:36:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:51:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 10:51:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 11:00:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:01:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 11:01:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:02:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:02:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-18 11:10:40"
+                }
+            ]
+        },
+        {
+            "name": "activity.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:37:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-05-18 10:37:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:07:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 59,
+                    "start_time": "2022-05-18 11:06:27"
+                }
+            ]
+        },
+        {
+            "name": "linux.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:39:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-05-18 10:38:54"
+                }
+            ]
+        },
+        {
+            "name": "programiz.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:40:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 10:40:01"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf autotimer.py - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 10:42:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-18 10:41:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-05-18 10:59:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:03:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-05-18 11:03:25"
+                }
+            ]
+        },
+        {
+            "name": "stackoverflow.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:00:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:00:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:04:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:04:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 11:10:51"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:07:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-05-18 11:07:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:19",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 45,
+                    "start_time": "2022-05-18 11:08:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:10:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 11:10:29"
+                }
+            ]
+        },
+        {
+            "name": "\u25cf activities.json - AutoTimer - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 11:08:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 56,
+                    "start_time": "2022-05-18 11:07:37"
+                }
+            ]
+        },
+        {
+            "name": "learn.verzeo.in",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 20:12:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:13:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-18 20:13:41"
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:12:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 20:12:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-05-18 20:13:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:13:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:13:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:13:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:13:37"
+                }
+            ]
+        },
+        {
+            "name": "portal.azure.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:14:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-05-18 20:14:29"
+                }
+            ]
+        },
+        {
+            "name": "Desktop",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:21:13"
+                }
+            ]
+        },
+        {
+            "name": "Pictures",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:21:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-18 20:21:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-05-18 20:21:45"
+                }
+            ]
+        },
+        {
+            "name": "Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:21:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-18 20:21:27"
+                }
+            ]
+        },
+        {
+            "name": "20211008_191834.jpg \u200e- Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-18 20:21:18"
+                }
+            ]
+        },
+        {
+            "name": "Screenshot 2022-03-13 103042.png \u200e- Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-18 20:21:28"
+                }
+            ]
+        },
+        {
+            "name": "Screenshot 2022-03-13 102749.png \u200e- Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:21:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-05-18 20:21:30"
+                }
+            ]
+        },
+        {
+            "name": "Camera Roll",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-18 20:22:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-05-18 20:21:57"
+                }
+            ]
+        },
+        {
+            "name": "Commenting publicly as 512 Ragavarshini",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 17:49:31"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:49:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 17:49:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-29 19:09:31"
+                }
+            ]
+        },
+        {
+            "name": "meet.google.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:50:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-05-21 17:50:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:51:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-21 17:50:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 17:51:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-05-21 17:51:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:02:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 18:02:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:03:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 18:03:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:17:10",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 35,
+                    "start_time": "2022-05-21 18:10:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:17:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:17:44"
+                }
+            ]
+        },
+        {
+            "name": "verzeo.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:04:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:04:22"
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:05:19"
+                }
+            ]
+        },
+        {
+            "name": "Downloads",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:05:22"
+                }
+            ]
+        },
+        {
+            "name": "Search",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-21 18:05:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:05:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-05-29 19:09:32"
+                }
+            ]
+        },
+        {
+            "name": "Settings",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-05-21 18:05:45"
+                }
+            ]
+        },
+        {
+            "name": "Spotify",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:05:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-21 18:05:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-29 19:09:35"
+                }
+            ]
+        },
+        {
+            "name": "Spotify Free",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:06:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-05-21 18:05:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:17:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2022-05-21 18:17:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-05-29 19:09:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-29 19:09:50"
+                }
+            ]
+        },
+        {
+            "name": "Harry Styles - As It Was",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-21 18:06:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-05-21 18:06:03"
+                }
+            ]
+        },
+        {
+            "name": "Mohit Chauhan - Masakali",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-05-29 19:09:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-05-29 19:09:49"
+                }
+            ]
+        }
+    ]
+}
